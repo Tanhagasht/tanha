@@ -1,0 +1,6 @@
+{
+  "name": "فرم درخواست خدمات مسافرتی تنها گشت ایرانیان",
+  "description": "سامانه رزرو تور، بلیط هواپیما، هتل و خدمات ویزا برای شرکت تنها گشت ایرانیان با پشتیبانی از سیستم ارسال ایمیل Web3Forms",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
